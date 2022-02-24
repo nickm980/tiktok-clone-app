@@ -1,5 +1,12 @@
 # tiktok-clone
-## Features
+### Features
+- Comments
+- Lazily loaded posts
+- Navigation bar that changes colors
+- Animated loaders
+- Like/Share buttons
+- Profile Data (Likes / Followers / Following)
+
 ### Pictures
 <p float="left">
 <img src="https://user-images.githubusercontent.com/81270095/155446564-d0607a58-cae5-4743-98af-117c5243efaa.png" width="200" height="auto">
