@@ -4,6 +4,7 @@
 - Lazily loaded posts
 - Navigation bar that changes colors
 - Animated loaders
+- Animated page scroll
 - Like/Share buttons
 - Profile Data (Likes / Followers / Following)
 - Explore page
