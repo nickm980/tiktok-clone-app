@@ -6,6 +6,7 @@
 - Animated loaders
 - Like/Share buttons
 - Profile Data (Likes / Followers / Following)
+- Explore page
 
 ### Pictures
 <p float="left">
